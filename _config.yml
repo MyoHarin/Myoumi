@@ -30,7 +30,7 @@ twitter_username: MyoHarin
 github_username:  MyoHarin
 
 # Build settings
-theme: minima
+theme: minima # jekyll-theme-midnight 
 plugins:
   - jekyll-feed
 

@@ -3,6 +3,8 @@ layout: post
 title:  "Sappy Zoetropes"
 date:   2024-11-23 01:08:40 +0000
 categories: jekyll update
+description: empty description
+tags: test
 ---
 
 # Sappy Zoetropes: A Journey Through Time and Imagination
