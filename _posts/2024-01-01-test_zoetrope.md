@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Sappy Zoetropes"
+date:   2024-11-23 01:08:40 +0000
+categories: jekyll update
+---
+
 # Sappy Zoetropes: A Journey Through Time and Imagination
 
 Welcome to the whimsical world of **Sappy Zoetropes**! In this blog, we’ll explore the fascinating concept of zoetropes, their historical significance, and how they inspire creativity today. 
