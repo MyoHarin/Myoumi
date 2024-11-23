@@ -4,6 +4,7 @@ title:  "Title here"
 date:   2024-01-01 00:00:00 +0100
 description: Here's the description of the post, which will be displayed on the home page of the blog.
 tags: tag another-tag
+permalink: /default-template/
 ---
 
 ### This is a heading with font size h3.
